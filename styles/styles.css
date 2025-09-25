@@ -7,7 +7,12 @@ body {
 
 section {
     border: 0cap;
-    
+    width: 200;
+}
+
+
+p {
+    color: azure;
 }
 
     
